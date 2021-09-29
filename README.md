@@ -1,7 +1,5 @@
 ## Hi!
 
-![](https://media.discordapp.net/attachments/716650859219648554/851176584563523665/about1.png?width=841&height=473)
-
 ### I work with
 - Javascript
 - C#
