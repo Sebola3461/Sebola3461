@@ -1,9 +1,8 @@
 ## Hi!
 
 ### I work with
-- Javascript
-- C#
-- And basic (so basic) Py
+- JavaScript
+- Basic Python
 
 ### Links
 - [Osu!](https://osu.ppy.sh/users/15821708)
