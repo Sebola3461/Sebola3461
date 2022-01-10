@@ -1,8 +1,9 @@
 ## Hi!
 
 ### I work with
-- JavaScript
-- Basic Python
+- JS/TS
+- React
+- Node.js
 
 ### Links
 - [Osu!](https://osu.ppy.sh/users/15821708)
