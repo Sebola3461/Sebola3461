@@ -3,6 +3,7 @@
 ### I work with
 - JS/TS
 - React
+- SCSS/css
 - Node.js
 
 ### Links
