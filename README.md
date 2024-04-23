@@ -1,12 +1,1 @@
-## Hi!
-
-### I work with
-- JS/TS
-- React
-- SCSS/css
-- Node.js
-
-### Links
-- [Osu!](https://osu.ppy.sh/users/15821708)
-- [Twitch](https://twitch.tv/Sebola3461)
-- Discord: Sebola3461
+as long if you still happy, im ok ^^
